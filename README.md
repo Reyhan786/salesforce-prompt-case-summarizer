@@ -48,7 +48,7 @@ In this project, I created and tested a **Prompt Template** using Einstein Gener
 4. **Preview step** showing generated response. ([./screenshots/Screenshot (138924).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/9752a683e633c9e08b452262a695183bb73ae172/screenshots/Screenshot%20(13924).png)
 5. **Case Page upgrade to Dynamic Forms**.  ([./screenshots/Screenshot (138935).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/97072baf721d92bb7bceac58ed1914bcd8e87d37/screenshots/Screenshot%20(13935).png))
 6. **Quick Summary field with Einstein overlay suggestion**. ([./screenshots/Screenshot (138945).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/7db05fd2346829a74dd66238c2de7e419e27a5e3/screenshots/Screenshot%20(13945).png))
-7. **Final Case record showing AI-generated Quick Summary filled in**.  ([./screenshots/Screenshot (138948).png]https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/f9c1d318f8bf1ab5ff34884caeb35da8cb107eaf/screenshots/Screenshot%20(13948).png))
+7. **Final Case record showing AI-generated Quick Summary filled in**([./screenshots/Screenshot (138948).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/f9c1d318f8bf1ab5ff34884caeb35da8cb107eaf/screenshots/Screenshot%20(13948).png))
 
 ##  Key Takeaways
 - Prompt Builder lets us combine **data + instructions** for scalable AI.  
@@ -59,7 +59,7 @@ In this project, I created and tested a **Prompt Template** using Einstein Gener
 
 ## 🔗 Source
 This project was built following Salesforce Trailhead:  
- [Get Started with Prompt Builder]([https://trailhead.salesforce.com/](https://trailhead.salesforce.com/content/learn/projects/quick-start-prompt-builder/get-started-with-prompt-builder))  
+ [Get Started with Prompt Builder](https://trailhead.salesforce.com/)  
 
 
 
