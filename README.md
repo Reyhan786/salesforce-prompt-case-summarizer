@@ -1,11 +1,11 @@
-# 🤖 Case Summarizer with Prompt Builder
+#  Case Summarizer with Prompt Builder
 
 **Summary:**  
 Built a Salesforce Prompt Template to automatically generate case summaries using Subject, Priority, Type, and Comments. This reduces manual effort for support agents.
 
 ---
 
-## 🔑 Key Features
+##  Key Features
 - Prompt Builder with Case merge fields  
 - Generates AI-powered case summaries  
 - Preview & real-time editing  
