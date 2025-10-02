@@ -42,7 +42,7 @@ In this project, I created and tested a **Prompt Template** using Einstein Gener
 ---
 
 ## 📸 Screenshots Included
-1. **Einstein Setup** (toggle enabled).  
+1. **Einstein Setup** (toggle enabled). (./screenshots/Screenshot (13876).png)
 2. **New Prompt Template Creation** (Quick Summary).  
 3. **Prompt text with merge fields** inserted.  
 4. **Preview step** showing generated response.  
