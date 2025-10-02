@@ -43,7 +43,7 @@ In this project, I created and tested a **Prompt Template** using Einstein Gener
 
 ## 📸 Screenshots Included
 1. **Einstein Setup** (toggle enabled). ([./screenshots/Screenshot (13876).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/2e519676f01175368447883b1bcb73218dcade51/screenshots/Screenshot%20(13876).png))
-2. **New Prompt Template Creation** (Quick Summary).(https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/35ca577ab003b72dbc1197c4bb59e7ef1814efc2/screenshots/Screenshot%20(13890).png) 
+2. **New Prompt Template Creation** (Quick Summary).([./screenshots/Screenshot (13890).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/35ca577ab003b72dbc1197c4bb59e7ef1814efc2/screenshots/Screenshot%20(13890).png)) 
 3. **Prompt text with merge fields** inserted.  
 4. **Preview step** showing generated response.  
 5. **Case Page upgrade to Dynamic Forms**.  
