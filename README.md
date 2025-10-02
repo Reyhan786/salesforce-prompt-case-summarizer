@@ -5,53 +5,52 @@ In this project, I created and tested a **Prompt Template** using Einstein Gener
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 - Create and test a prompt template that includes **merge fields**.  
 - Associate a prompt template with a **Case field** for field generation.  
 - Streamline content generation using **Einstein Generative AI**.  
 
 ---
 
-## 🛠 Project Steps
+## Project Steps
 
-### 1️⃣ Enable Einstein Generative AI
+### 1️. Enable Einstein Generative AI
 - Opened **Einstein Setup** and turned on Einstein.  
 - Refreshed to see new AI settings.  
 
-### 2️⃣ Create Prompt Template
+### 2️. Create Prompt Template
 - Type: **Field Generation**  
 - Name: **Quick Summary**  
 - Object: **Case**  
 - Field: **Quick Summary**  
 - Added a prompt with merge fields:
-  3️⃣ Test Prompt Template
+  3️. Test Prompt Template
 - Selected Case **00001002** as sample.  
 - Previewed and got a generated summary from **OpenAI GPT-4 Omni Mini**.  
 
-### 4️⃣ Add Prompt Template to Case Page
+### 4️. Add Prompt Template to Case Page
 - Upgraded **Case Record Page** to **Dynamic Forms**.  
 - Linked **Quick Summary field** with the Prompt Template.  
 - Activated page and tested field with Einstein overlay.  
 
 ---
 
-## ✅ Final Result
+## Final Result
 - Case records now include a **Quick Summary field** powered by Einstein Generative AI.  
 - With a single click, support agents can get an AI-generated case summary.  
 
 ---
 
-## 📸 Screenshots Included
+##  Screenshots Included
 1. **Einstein Setup** (toggle enabled). ([./screenshots/Screenshot (13876).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/2e519676f01175368447883b1bcb73218dcade51/screenshots/Screenshot%20(13876).png))
 2. **New Prompt Template Creation** (Quick Summary).([./screenshots/Screenshot (13890).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/35ca577ab003b72dbc1197c4bb59e7ef1814efc2/screenshots/Screenshot%20(13890).png)) 
 3. **Prompt text with merge fields** inserted. ([./screenshots/Screenshot (138910).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/2a1b164e29a34a9746ff8c4ef79b193940e263b7/screenshots/Screenshot%20(13910).png))
 4. **Preview step** showing generated response. ([./screenshots/Screenshot (138924).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/9752a683e633c9e08b452262a695183bb73ae172/screenshots/Screenshot%20(13924).png)
 5. **Case Page upgrade to Dynamic Forms**.  ([./screenshots/Screenshot (138935).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/97072baf721d92bb7bceac58ed1914bcd8e87d37/screenshots/Screenshot%20(13935).png))
 6. **Quick Summary field with Einstein overlay suggestion**. ([./screenshots/Screenshot (138945).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/7db05fd2346829a74dd66238c2de7e419e27a5e3/screenshots/Screenshot%20(13945).png))
-7. **Final Case record showing AI-generated Quick Summary filled in**.  ([./screenshots/Screenshot (138945).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/7db05fd2346829a74dd66238c2de7e419e27a5e3/screenshots/Screenshot%20(13945).png))
----
+7. **Final Case record showing AI-generated Quick Summary filled in**.  ([./screenshots/Screenshot (138948).png]https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/f9c1d318f8bf1ab5ff34884caeb35da8cb107eaf/screenshots/Screenshot%20(13948).png))
 
-## 🌟 Key Takeaways
+##  Key Takeaways
 - Prompt Builder lets us combine **data + instructions** for scalable AI.  
 - Merge fields ensure **personalized and dynamic outputs**.  
 - This feature saves support agents’ time and increases productivity.  
@@ -60,14 +59,10 @@ In this project, I created and tested a **Prompt Template** using Einstein Gener
 
 ## 🔗 Source
 This project was built following Salesforce Trailhead:  
-👉 [Get Started with Prompt Builder](https://trailhead.salesforce.com/)  
+ [Get Started with Prompt Builder]([https://trailhead.salesforce.com/](https://trailhead.salesforce.com/content/learn/projects/quick-start-prompt-builder/get-started-with-prompt-builder))  
 
 
-## 📸 Screenshots
-![Prompt Builder Setup]([./screenshots/Screenshot (13876).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/0338e1074667b500d6683cf1d56e99efa4a70238/screenshots/Screenshot%20(13876).png))
 
-![Prompt Builder Setup].
-(./screenshots/prompt-output.png)  
-![Flow Integration](./screenshots/flow.png)  
+
 
 
