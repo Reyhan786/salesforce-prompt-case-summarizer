@@ -14,8 +14,7 @@ Built a Salesforce Prompt Template to automatically generate case summaries usin
 ---
 
 ## 📸 Screenshots
-![Prompt Builder Setup].
-(https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/bd0aefac5e101b6a19ebf9fb3a38549dbe08a25f/screenshots/Screenshot%20(13876).png)  
+![Prompt Builder Setup](./screenshots/Screenshot (13876).png)  
 ![Prompt Builder Setup].
 (./screenshots/prompt-output.png)  
 ![Flow Integration](./screenshots/flow.png)  
