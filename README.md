@@ -46,7 +46,7 @@ In this project, I created and tested a **Prompt Template** using Einstein Gener
 2. **New Prompt Template Creation** (Quick Summary).([./screenshots/Screenshot (13890).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/35ca577ab003b72dbc1197c4bb59e7ef1814efc2/screenshots/Screenshot%20(13890).png)) 
 3. **Prompt text with merge fields** inserted. ([./screenshots/Screenshot (138910).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/2a1b164e29a34a9746ff8c4ef79b193940e263b7/screenshots/Screenshot%20(13910).png))
 4. **Preview step** showing generated response. ([./screenshots/Screenshot (138924).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/9752a683e633c9e08b452262a695183bb73ae172/screenshots/Screenshot%20(13924).png)
-5. **Case Page upgrade to Dynamic Forms**.  
+5. **Case Page upgrade to Dynamic Forms**.  ([./screenshots/Screenshot (138935).png](https://github.com/Reyhan786/salesforce-prompt-case-summarizer/blob/97072baf721d92bb7bceac58ed1914bcd8e87d37/screenshots/Screenshot%20(13935).png))
 6. **Quick Summary field with Einstein overlay suggestion**.  
 7. **Final Case record showing AI-generated Quick Summary filled in**.  
 
